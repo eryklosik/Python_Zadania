@@ -1,0 +1,20 @@
+<?xml version="1.0" ?><changed_tag>
+    <note id="128">
+        <to>A1</to>
+        <from>A2</from>
+        <heading>A3</heading>
+        <body>A4</body>
+    </note>
+    <note id="125">
+        <to>B1</to>
+        <from>B2</from>
+        <heading>B3</heading>
+        <body>B4</body>
+    </note>
+    <note id="197">
+        <to>C1</to>
+        <from>C2</from>
+        <heading>C3</heading>
+        <body>C4</body>
+    </note>
+</changed_tag>
